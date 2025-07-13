@@ -1,6 +1,5 @@
 - 👋 Hi, I am @AliHaiderAhmad001
 - **Kaggle Expert:** https://www.kaggle.com/alihaiderahmad
-- 
 - 👀 I am interested in NLPData science|ML|AI|LLMs
 - 📫 How to reach me: ali.h.ahmad001@gmail.com
 
